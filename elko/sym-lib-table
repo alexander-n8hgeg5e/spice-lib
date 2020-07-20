@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 0_project)(type Legacy)(uri ${KIPRJMOD}/0_project.lib)(options "")(descr ""))
+  (lib (name 0_ext)(type Legacy)(uri /var/src/electronic/power_supply/project.lib)(options "")(descr ""))
+)

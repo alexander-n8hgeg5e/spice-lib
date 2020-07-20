@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_Zener
+D Zener diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP L
+D Inductor symbol for simulation only
+K simulation
+F ~
+$ENDCMP
+#
+$CMP V
+D Voltage source symbol for simulation only
+K simulation
+F ~
+$ENDCMP
+#
+$CMP VSOURCE
+D Voltage source symbol for simulation only
+K simulation
+F ~
+$ENDCMP
+#
+#End Doc Library
