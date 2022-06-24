@@ -1,0 +1,8 @@
+.SUBCKT SMBJ20A      1   2
+*       TERMINALS:   A   K
+Done    2            1   Dtvs
+Rleak   1            2   40meg
+.MODEL  Dtvs         D   (IS=1.0e-5 RS=0.51709 N=1.5 IBV=1m BV=22.41 CJO=900p)
+.ENDS
+
+* vim: set filetype=spice  :
